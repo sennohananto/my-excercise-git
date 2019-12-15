@@ -12,4 +12,17 @@ footer{
     position: absolute;
     bottom: 0;
     width: 100%;
+    margin: 0px;
+}
+
+header{
+    text-align: center;
+    background-color: chocolate;
+    padding: 15px;
+    color: white;
+}
+
+#body{
+    text-align: center;
+    line-height: 100vh;
 }
